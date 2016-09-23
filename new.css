@@ -1,0 +1,32 @@
+
+body{
+background-color:black;
+color:white;
+font-size:20px;
+}
+#main{
+    border:10px groove mistyrose;
+    background-image:url("new.png");
+    
+}
+h1{
+    font-family:Indie Flower;
+}
+button{
+    
+    background-color:olive;
+    color:white;
+    padding:2px;
+    margin:10px 400px;
+    width:150px;
+    height:50px;
+    border:none;
+    font-family:'Baloo Tamma', cursive;
+    text-transform:capitalize;
+    font-size:16px;
+    border-radius:100px;
+}
+}
+button:hover{
+  color:grey;
+}
