@@ -1,7 +1,14 @@
+ 
+ var a = prompt("what is your good name?");
+ var b = prompt("what is your father name?");
+ alert("hi,"  + a  +  b + ".good Morning");
+ 
+ 
+ 
   //starting arthmatic  operation / expression...=================
   
   
-  //addition sector
+  //addition sector =================================================================
 function plus()
 {
 var a = parseInt(prompt("enter first number"));
@@ -9,7 +16,7 @@ var b = parseInt(prompt("enter second number"));
 var c = a + b;
 alert(c);
 }
-//minus section...
+//minus section...=========================================================================
 function minus()
 {
     var a = parseInt(prompt("enter first number"));
@@ -17,7 +24,7 @@ function minus()
     var c = a - b;
     alert(c)
  }
- //divide section ...
+ //divide section ...=================================================================================
  function division()
  {
      var a = parseInt(prompt("enter your dividing first number"));
@@ -25,7 +32,7 @@ function minus()
      var c = a / b;
      alert(c);
   }
-  // here is the multiply section...
+  // here is the multiply section...==================================================================
  
 function multiply()
 {

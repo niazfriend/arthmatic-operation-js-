@@ -1,6 +1,6 @@
 
 body{
-background-color:black;
+background-image: url(new.jpg);
 color:white;
 font-size:20px;
 }
@@ -29,4 +29,5 @@ button{
 }
 button:hover{
   color:grey;
-}
+  border-shadow:5px 4px 1px 0px grey;
+  }
